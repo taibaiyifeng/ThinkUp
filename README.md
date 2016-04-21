@@ -1,3 +1,4 @@
+ThinkUp 是一个可以采集推特，facebook等社交网络数据的社会媒体视角引擎。通过采集个人的社交网络账号中的数据，对其存档以及处理的交互分析工具，并将数据图形化以便更直观的查看 php爬虫引擎。
 # ThinkUp, social media insights engine [![Build Status](https://secure.travis-ci.org/ThinkUpLLC/ThinkUp.png?branch=master)](http://travis-ci.org/ThinkUpLLC/ThinkUp)
 
 ThinkUp is a free, installable web application that gives you insights into your activity on social networks like
